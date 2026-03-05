@@ -7,8 +7,8 @@
     "versioned_web_bin": "Artnet-cntrl_web_v5.10.7.bin"
   },
   "hashes": {
-    "sha256_latest_web_bin": "dac58aa83e581ea1c6036e5f483f559ab2046820168d7d345ae7889278fed38b",
-    "sha256_versioned_web_bin": "dac58aa83e581ea1c6036e5f483f559ab2046820168d7d345ae7889278fed38b"
+    "sha256_latest_web_bin": "df4566e19bf6c0b1d96fef3b1426f1d2a1e8b339e841025dcd4a558ab590c61b",
+    "sha256_versioned_web_bin": "df4566e19bf6c0b1d96fef3b1426f1d2a1e8b339e841025dcd4a558ab590c61b"
   },
-  "built_at": "2026-03-05T20:04:04"
+  "built_at": "2026-03-05T20:46:16"
 }
