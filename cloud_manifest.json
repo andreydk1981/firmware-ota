@@ -4,7 +4,7 @@
     "fw_version": "5.0.127",
     "LEDS4_p32-33-5-17_SD_RST12": {
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_latest.enc",
-      "size": 1473308
+      "size": 1473276
     },
     "web_version": "5.10.8",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_latest.bin",
