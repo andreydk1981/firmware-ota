@@ -1,22 +1,22 @@
 {
   "updated_at": "2026-03-05T19:00:00",
   "Artnet-cntrl": {
-    "fw_version": "5.0.122",
+    "fw_version": "5.0.123",
     "LEDS4_p32-33-5-17_SD_RST12": {
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_latest.enc",
-      "size": 1472732
+      "size": 1473020
     },
-    "web_version": "5.10.6",
+    "web_version": "5.10.7",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_latest.bin",
     "web_size": 983040
   },
   "Radar-Tracker": {
-    "fw_version": "3.0.42",
+    "fw_version": "3.0.43",
     "default": {
       "path": "Radar-Tracker/Radar-Tracker_latest.enc",
-      "size": 1348124
+      "size": 1348364
     },
-    "web_version": "2.0.35",
+    "web_version": "2.0.36",
     "web_path": "Radar-Tracker/Radar-Tracker_web_latest.bin",
     "web_size": 983040
   }
