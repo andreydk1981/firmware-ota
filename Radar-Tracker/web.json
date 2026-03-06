@@ -1,14 +1,14 @@
 {
   "prefix": "Radar-Tracker",
-  "web_version": "2.1.0",
+  "web_version": "2.1.1",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_web_bin": "Radar-Tracker_web_latest.bin",
-    "versioned_web_bin": "Radar-Tracker_web_v2.1.0.bin"
+    "versioned_web_bin": "Radar-Tracker_web_v2.1.1.bin"
   },
   "hashes": {
-    "sha256_latest_web_bin": "6b850ebc5683e59f9defc72c70d77c24a1a6165a9351ebc94442057ca2709e28",
-    "sha256_versioned_web_bin": "6b850ebc5683e59f9defc72c70d77c24a1a6165a9351ebc94442057ca2709e28"
+    "sha256_latest_web_bin": "3cd08b73b4e9ffc2931598e298204c60abee70d1fa461787a95165d706352ff9",
+    "sha256_versioned_web_bin": "3cd08b73b4e9ffc2931598e298204c60abee70d1fa461787a95165d706352ff9"
   },
-  "built_at": "2026-03-06T08:35:15"
+  "built_at": "2026-03-06T08:44:05"
 }
