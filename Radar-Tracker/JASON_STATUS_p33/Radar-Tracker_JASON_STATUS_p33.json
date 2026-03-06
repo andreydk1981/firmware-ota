@@ -1,0 +1,23 @@
+{
+  "prefix": "Radar-Tracker",
+  "version": "3.0.45",
+  "config": "JASON_STATUS_p33",
+  "pioenv": "wt32-eth01",
+  "files": {
+    "latest_enc": "Radar-Tracker_JASON_STATUS_p33_latest.enc",
+    "versioned_enc": "Radar-Tracker_JASON_STATUS_p33_v3.0.45.enc"
+  },
+  "hashes": {
+    "sha256_versioned_enc": "252b271c2c3b466ab4ccd2f53fdfcfa476f098b3cdbbe0d22cfd3ec784d51f26",
+    "sha256_latest_enc": "252b271c2c3b466ab4ccd2f53fdfcfa476f098b3cdbbe0d22cfd3ec784d51f26"
+  },
+  "encryption": {
+    "cipher": "AES-256-GCM",
+    "nonce_b64": "JOtnoFrjlHXU8hVK",
+    "nonce_len": 12,
+    "tag_len": 16,
+    "format": "nonce||ciphertext||tag",
+    "plain_size": 1157280
+  },
+  "built_at": "2026-03-06T13:25:16"
+}

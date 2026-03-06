@@ -25,6 +25,11 @@
       "path": "Radar-Tracker/Radar-Tracker_latest.enc",
       "size": 1157308,
       "version": "3.0.45"
+    },
+    "JASON_STATUS_p33": {
+      "path": "Radar-Tracker/JASON_STATUS_p33/Radar-Tracker_JASON_STATUS_p33_latest.enc",
+      "size": 1157308,
+      "version": "3.0.45"
     }
   }
 }
