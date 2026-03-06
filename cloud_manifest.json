@@ -12,9 +12,14 @@
     }
   },
   "Radar-Tracker": {
-    "fw_version": "",
+    "fw_version": "3.0.45",
     "web_version": "",
     "web_path": "",
-    "web_size": 0
+    "web_size": 0,
+    "default": {
+      "path": "Radar-Tracker/Radar-Tracker_latest.enc",
+      "size": 1157308,
+      "version": "3.0.45"
+    }
   }
 }
