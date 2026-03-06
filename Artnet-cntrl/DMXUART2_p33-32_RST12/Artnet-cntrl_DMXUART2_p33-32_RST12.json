@@ -1,0 +1,23 @@
+{
+  "prefix": "Artnet-cntrl",
+  "version": "5.1.4",
+  "config": "DMXUART2_p33-32_RST12",
+  "pioenv": "wt32-eth01",
+  "files": {
+    "latest_enc": "Artnet-cntrl_DMXUART2_p33-32_RST12_latest.enc",
+    "versioned_enc": "Artnet-cntrl_DMXUART2_p33-32_RST12_v5.1.4.enc"
+  },
+  "hashes": {
+    "sha256_versioned_enc": "641029b56c26f45d6212a7d5289d19abc671449400c4017cb234ab1fcbf8b5f0",
+    "sha256_latest_enc": "641029b56c26f45d6212a7d5289d19abc671449400c4017cb234ab1fcbf8b5f0"
+  },
+  "encryption": {
+    "cipher": "AES-256-GCM",
+    "nonce_b64": "LpeYftca5U631h9Z",
+    "nonce_len": 12,
+    "tag_len": 16,
+    "format": "nonce||ciphertext||tag",
+    "plain_size": 1137056
+  },
+  "built_at": "2026-03-06T12:40:55"
+}
