@@ -34,6 +34,11 @@
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST36_TFAN/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST36_TFAN_latest.enc",
       "size": 1323196,
       "version": "5.1.4"
+    },
+    "LEDS4_p32-33-5-17_SD_DMXUART2_p32-33_RST12_TFAN": {
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_DMXUART2_p32-33_RST12_TFAN/Artnet-cntrl_LEDS4_p32-33-5-17_SD_DMXUART2_p32-33_RST12_TFAN_latest.enc",
+      "size": 1328380,
+      "version": "5.1.4"
     }
   },
   "Radar-Tracker": {
