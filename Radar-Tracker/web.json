@@ -7,8 +7,8 @@
     "versioned_web_bin": "Radar-Tracker_web_v2.0.38.bin"
   },
   "hashes": {
-    "sha256_latest_web_bin": "4f239083824153cd3c6fcc5b564a5c395de9d2bb14b4c0eca7dac0bef23078fe",
-    "sha256_versioned_web_bin": "4f239083824153cd3c6fcc5b564a5c395de9d2bb14b4c0eca7dac0bef23078fe"
+    "sha256_latest_web_bin": "2363b606045fa517b50fe7a5538b0725f39aa96abfc3d0c4e454e8deb02c9938",
+    "sha256_versioned_web_bin": "2363b606045fa517b50fe7a5538b0725f39aa96abfc3d0c4e454e8deb02c9938"
   },
-  "built_at": "2026-03-06T08:31:23"
+  "built_at": "2026-03-06T08:34:37"
 }
