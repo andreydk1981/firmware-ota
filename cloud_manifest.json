@@ -6,7 +6,7 @@
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_latest.enc",
       "size": 1315004
     },
-    "web_version": "5.11.0",
+    "web_version": "5.11.1",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_latest.bin",
     "web_size": 983040
   },
