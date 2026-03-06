@@ -64,6 +64,11 @@
       "path": "Artnet-cntrl/SD_DMXUART2_p33-32_RMT2_p17-5_RST12/Artnet-cntrl_SD_DMXUART2_p33-32_RMT2_p17-5_RST12_latest.enc",
       "size": 1262844,
       "version": "5.1.4"
+    },
+    "DMXRMT1_p17_RST12": {
+      "path": "Artnet-cntrl/DMXRMT1_p17_RST12/Artnet-cntrl_DMXRMT1_p17_RST12_latest.enc",
+      "size": 1140684,
+      "version": "5.1.4"
     }
   },
   "Radar-Tracker": {
