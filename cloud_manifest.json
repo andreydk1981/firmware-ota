@@ -11,7 +11,7 @@
     "web_size": 983040
   },
   "Radar-Tracker": {
-    "fw_version": "3.0.44",
+    "fw_version": "3.0.45",
     "default": {
       "path": "Radar-Tracker/Radar-Tracker_latest.enc",
       "size": 1348588
