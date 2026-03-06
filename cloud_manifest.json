@@ -19,6 +19,11 @@
       "path": "Artnet-cntrl/LEDS2_p32-33_SD_RST12/Artnet-cntrl_LEDS2_p32-33_SD_RST12_latest.enc",
       "size": 1279164,
       "version": "5.1.4"
+    },
+    "LEDS3_p32-33-5_RST12": {
+      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12/Artnet-cntrl_LEDS3_p32-33-5_RST12_latest.enc",
+      "size": 1179804,
+      "version": "5.1.4"
     }
   },
   "Radar-Tracker": {
