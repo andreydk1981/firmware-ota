@@ -38,7 +38,7 @@
     }
   },
   "Relay-cntrl": {
-    "web_version": "3.0.17",
+    "web_version": "3.0.18",
     "web_path": "Relay-cntrl/web/Relay-cntrl_web_latest.bin",
     "web_size": 983040,
     "RST12": {
