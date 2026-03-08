@@ -19,6 +19,11 @@
       "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12/Artnet-cntrl_SD_DMXRMT1_p17_RST12_latest.enc",
       "size": 1261868,
       "version": "5.1.6"
+    },
+    "LEDS3_p32-33-5_RST12": {
+      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12/Artnet-cntrl_LEDS3_p32-33-5_RST12_latest.enc",
+      "size": 1179852,
+      "version": "5.1.6"
     }
   },
   "Radar-Tracker": {
