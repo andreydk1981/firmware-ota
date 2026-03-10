@@ -1,14 +1,14 @@
 {
   "prefix": "Relay-cntrl",
-  "web_version": "3.0.37",
+  "web_version": "3.0.38",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_web_bin": "Relay-cntrl_web_latest.bin",
-    "versioned_web_bin": "Relay-cntrl_web_v3.0.37.bin"
+    "versioned_web_bin": "Relay-cntrl_web_v3.0.38.bin"
   },
   "hashes": {
-    "sha256_latest_web_bin": "4ee6efcb9d2404ed0925f4de47fa0139bb8290f457e3324386ce7dadbae7cc07",
-    "sha256_versioned_web_bin": "4ee6efcb9d2404ed0925f4de47fa0139bb8290f457e3324386ce7dadbae7cc07"
+    "sha256_latest_web_bin": "2ddcde0ed4e026c4f3559d4f3069e6b54650f1edd55d4e88a6213d9b7808a1ac",
+    "sha256_versioned_web_bin": "2ddcde0ed4e026c4f3559d4f3069e6b54650f1edd55d4e88a6213d9b7808a1ac"
   },
-  "built_at": "2026-03-10T07:45:34"
+  "built_at": "2026-03-10T08:12:59"
 }
