@@ -7,8 +7,8 @@
     "versioned_web_bin": "Relay-cntrl_web_v3.0.48.bin"
   },
   "hashes": {
-    "sha256_latest_web_bin": "f20b3f06030caa40ba89690ad58ab7c0e5437a35f48e102674893aa211423fa2",
-    "sha256_versioned_web_bin": "f20b3f06030caa40ba89690ad58ab7c0e5437a35f48e102674893aa211423fa2"
+    "sha256_latest_web_bin": "3df0ffc8f67e7e5f91ba98f33ef7bdf7351701af1dc94eb33f84f5cfd749ad2d",
+    "sha256_versioned_web_bin": "3df0ffc8f67e7e5f91ba98f33ef7bdf7351701af1dc94eb33f84f5cfd749ad2d"
   },
-  "built_at": "2026-03-13T05:09:44"
+  "built_at": "2026-03-13T05:31:50"
 }
