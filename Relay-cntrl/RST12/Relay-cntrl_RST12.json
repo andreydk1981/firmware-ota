@@ -1,23 +1,23 @@
 {
   "prefix": "Relay-cntrl",
-  "version": "3.0.33",
+  "version": "3.0.34",
   "config": "RST12",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_enc": "Relay-cntrl_RST12_latest.enc",
-    "versioned_enc": "Relay-cntrl_RST12_v3.0.33.enc"
+    "versioned_enc": "Relay-cntrl_RST12_v3.0.34.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "c1ff2422f18ea0c7706f6f2a7501fb3e829d6d8699c0c2b039c6a9d4a42a9862",
-    "sha256_latest_enc": "c1ff2422f18ea0c7706f6f2a7501fb3e829d6d8699c0c2b039c6a9d4a42a9862"
+    "sha256_versioned_enc": "caefcd80990dfaf890d5ceb80b61621e82b4a2c8eae2216943a1ace28a482b9a",
+    "sha256_latest_enc": "caefcd80990dfaf890d5ceb80b61621e82b4a2c8eae2216943a1ace28a482b9a"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "mw3F0X9YCbyR4t9B",
+    "nonce_b64": "JbMiEaf42RICzzQy",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1111472
+    "plain_size": 1111712
   },
-  "built_at": "2026-03-13T06:31:26"
+  "built_at": "2026-03-13T06:47:56"
 }
