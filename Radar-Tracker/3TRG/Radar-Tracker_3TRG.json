@@ -8,16 +8,16 @@
     "versioned_enc": "Radar-Tracker_3TRG_v3.0.55.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "811bf5ce414ebdce5c3dfc059251054752d7510f9b4481c44bd6081ead35ad29",
-    "sha256_latest_enc": "811bf5ce414ebdce5c3dfc059251054752d7510f9b4481c44bd6081ead35ad29"
+    "sha256_versioned_enc": "4fb9494ce047c15e7c1ff7ea45b40a7ce9c329869a75f0ddb262e86c9db141e9",
+    "sha256_latest_enc": "4fb9494ce047c15e7c1ff7ea45b40a7ce9c329869a75f0ddb262e86c9db141e9"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "+1Sf7EYuglHKNzsn",
+    "nonce_b64": "aXcWh11xXElj4nAv",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1159728
+    "plain_size": 1159744
   },
-  "built_at": "2026-03-13T08:55:43"
+  "built_at": "2026-03-13T08:55:57"
 }
