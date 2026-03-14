@@ -38,7 +38,7 @@
   },
   "Radar-Tracker": {
     "fw_version": "3.0.55",
-    "web_version": "2.1.4",
+    "web_version": "2.1.5",
     "web_path": "Radar-Tracker/web/Radar-Tracker_web_latest.bin",
     "web_size": 983040,
     "3TRG": {
