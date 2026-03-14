@@ -1,23 +1,23 @@
 {
   "prefix": "Artnet-cntrl",
-  "version": "5.1.14",
+  "version": "5.1.16",
   "config": "SD_DMXUART2_p32-33_RST12",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_enc": "Artnet-cntrl_SD_DMXUART2_p32-33_RST12_latest.enc",
-    "versioned_enc": "Artnet-cntrl_SD_DMXUART2_p32-33_RST12_v5.1.14.enc"
+    "versioned_enc": "Artnet-cntrl_SD_DMXUART2_p32-33_RST12_v5.1.16.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "89b8e83fca9c07cab50b537c5259ee41c3d205700bafd263c104efda1d35cc45",
-    "sha256_latest_enc": "89b8e83fca9c07cab50b537c5259ee41c3d205700bafd263c104efda1d35cc45"
+    "sha256_versioned_enc": "9fc6079c9f642893af993d485b231dfeb48bd27003f9b4a75044b8c7c7d84277",
+    "sha256_latest_enc": "9fc6079c9f642893af993d485b231dfeb48bd27003f9b4a75044b8c7c7d84277"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "+LxTH1I37jRt5f8Q",
+    "nonce_b64": "Tk8Yft8CN6TaMTnj",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1255664
+    "plain_size": 1262096
   },
-  "built_at": "2026-03-13T08:49:54"
+  "built_at": "2026-03-14T21:33:15"
 }
