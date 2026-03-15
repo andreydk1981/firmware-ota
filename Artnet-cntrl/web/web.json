@@ -1,14 +1,14 @@
 {
   "prefix": "Artnet-cntrl",
-  "web_version": "6.0.5",
+  "web_version": "6.0.6",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_web_bin": "Artnet-cntrl_web_latest.bin",
-    "versioned_web_bin": "Artnet-cntrl_web_v6.0.5.bin"
+    "versioned_web_bin": "Artnet-cntrl_web_v6.0.6.bin"
   },
   "hashes": {
-    "sha256_latest_web_bin": "87d7adb35801c36e2f6a1d2a76961288fd3ddbc89268b4ef3416e5afca84a670",
-    "sha256_versioned_web_bin": "87d7adb35801c36e2f6a1d2a76961288fd3ddbc89268b4ef3416e5afca84a670"
+    "sha256_latest_web_bin": "62aa262ee10a9f0fe6e70d3454f22cdcb376d88619cb817b7ae84ebfe467888f",
+    "sha256_versioned_web_bin": "62aa262ee10a9f0fe6e70d3454f22cdcb376d88619cb817b7ae84ebfe467888f"
   },
-  "built_at": "2026-03-15T22:14:29"
+  "built_at": "2026-03-15T22:23:53"
 }
