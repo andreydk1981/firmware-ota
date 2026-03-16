@@ -1,0 +1,23 @@
+{
+  "prefix": "Artnet-cntrl",
+  "version": "6.0.19",
+  "config": "SD_DMXRMT4_p17-5-33-32_RST12",
+  "pioenv": "wt32-eth01",
+  "files": {
+    "latest_enc": "Artnet-cntrl_SD_DMXRMT4_p17-5-33-32_RST12_latest.enc",
+    "versioned_enc": "Artnet-cntrl_SD_DMXRMT4_p17-5-33-32_RST12_v6.0.19.enc"
+  },
+  "hashes": {
+    "sha256_versioned_enc": "f66523a4a8f5805c47592fdf30c623c6a3d1c481eeb15b5a415a31fd14e9b856",
+    "sha256_latest_enc": "f66523a4a8f5805c47592fdf30c623c6a3d1c481eeb15b5a415a31fd14e9b856"
+  },
+  "encryption": {
+    "cipher": "AES-256-GCM",
+    "nonce_b64": "fmmBqdsuC+249co5",
+    "nonce_len": 12,
+    "tag_len": 16,
+    "format": "nonce||ciphertext||tag",
+    "plain_size": 1308288
+  },
+  "built_at": "2026-03-16T14:19:28"
+}
