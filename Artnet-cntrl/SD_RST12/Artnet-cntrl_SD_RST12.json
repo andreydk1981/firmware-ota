@@ -1,23 +1,23 @@
 {
   "prefix": "Artnet-cntrl",
-  "version": "6.0.5",
+  "version": "6.0.19",
   "config": "SD_RST12",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_enc": "Artnet-cntrl_SD_RST12_latest.enc",
-    "versioned_enc": "Artnet-cntrl_SD_RST12_v6.0.5.enc"
+    "versioned_enc": "Artnet-cntrl_SD_RST12_v6.0.19.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "9c8ee48a72a93314274bfd0c72ca8fd6a710ff81e338ba6d2b86b3918450a6c6",
-    "sha256_latest_enc": "9c8ee48a72a93314274bfd0c72ca8fd6a710ff81e338ba6d2b86b3918450a6c6"
+    "sha256_versioned_enc": "10cdc57698c47403d00c8eabb101c6b6a83c8e476f4b06dd5a81308fe902290e",
+    "sha256_latest_enc": "10cdc57698c47403d00c8eabb101c6b6a83c8e476f4b06dd5a81308fe902290e"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "3pahrk7NOtIW64BI",
+    "nonce_b64": "B2/ADzOMhXA/cLVO",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1281744
+    "plain_size": 1288096
   },
-  "built_at": "2026-03-15T21:33:16"
+  "built_at": "2026-03-16T16:14:35"
 }
