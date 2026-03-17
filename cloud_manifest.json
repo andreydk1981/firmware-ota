@@ -2,7 +2,7 @@
   "updated_at": "2026-03-06T13:00:00",
   "Artnet-cntrl": {
     "fw_version": "6.0.26",
-    "web_version": "6.2.0",
+    "web_version": "6.2.1",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_latest.bin",
     "web_size": 983040,
     "LEDS4_p32-33-5-17_RST12": {
