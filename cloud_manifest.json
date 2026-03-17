@@ -67,8 +67,8 @@
     },
     "SD_DMXRMT2_p32-33_RST12": {
       "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_latest.enc",
-      "size": 1308204,
-      "version": "6.0.19"
+      "size": 1307020,
+      "version": "6.0.26"
     },
     "SD_DMXRMT4_p17-5-33-32_RST12": {
       "path": "Artnet-cntrl/SD_DMXRMT4_p17-5-33-32_RST12/Artnet-cntrl_SD_DMXRMT4_p17-5-33-32_RST12_latest.enc",
