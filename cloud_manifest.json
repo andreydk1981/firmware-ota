@@ -22,8 +22,8 @@
     },
     "LEDS3_p32-33-5_RST12": {
       "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12/Artnet-cntrl_LEDS3_p32-33-5_RST12_latest.enc",
-      "size": 1239932,
-      "version": "6.0.19"
+      "size": 1242396,
+      "version": "6.0.26"
     },
     "SD_DMXUART2_p32-33_RST12": {
       "path": "Artnet-cntrl/SD_DMXUART2_p32-33_RST12/Artnet-cntrl_SD_DMXUART2_p32-33_RST12_latest.enc",
