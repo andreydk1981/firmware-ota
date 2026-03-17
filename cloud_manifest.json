@@ -57,8 +57,8 @@
     },
     "LEDS2_p32-33_DMXRMT2_p17-5_RST12": {
       "path": "Artnet-cntrl/LEDS2_p32-33_DMXRMT2_p17-5_RST12/Artnet-cntrl_LEDS2_p32-33_DMXRMT2_p17-5_RST12_latest.enc",
-      "size": 1232940,
-      "version": "6.0.19"
+      "size": 1235388,
+      "version": "6.0.26"
     },
     "DMXUART2_p32-33_RST12": {
       "path": "Artnet-cntrl/DMXUART2_p32-33_RST12/Artnet-cntrl_DMXUART2_p32-33_RST12_latest.enc",
