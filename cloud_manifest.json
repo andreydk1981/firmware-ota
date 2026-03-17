@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-03-06T13:00:00",
   "Artnet-cntrl": {
-    "fw_version": "6.0.26",
+    "fw_version": "6.0.27",
     "web_version": "6.2.2",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_latest.bin",
     "web_size": 983040,
@@ -77,8 +77,8 @@
     },
     "SD_DMXRMT2_p32-33_RST12_DTERM": {
       "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_latest.enc",
-      "size": 1311820,
-      "version": "6.0.26"
+      "size": 1312220,
+      "version": "6.0.27"
     }
   },
   "Radar-Tracker": {
