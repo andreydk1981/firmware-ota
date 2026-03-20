@@ -62,8 +62,8 @@
     },
     "DMXUART2_p32-33_RST12": {
       "path": "Artnet-cntrl/DMXUART2_p32-33_RST12/Artnet-cntrl_DMXUART2_p32-33_RST12_latest.enc",
-      "size": 1191644,
-      "version": "6.0.26"
+      "size": 1192572,
+      "version": "6.0.30"
     },
     "SD_DMXRMT2_p32-33_RST12": {
       "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_latest.enc",
