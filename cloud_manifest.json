@@ -87,14 +87,14 @@
     }
   },
   "Radar-Tracker": {
-    "fw_version": "3.0.57",
+    "fw_version": "3.0.58",
     "web_version": "2.1.6",
     "web_path": "Radar-Tracker/web/Radar-Tracker_web_latest.bin",
     "web_size": 983040,
     "3TRG": {
       "path": "Radar-Tracker/3TRG/Radar-Tracker_3TRG_latest.enc",
       "size": 1192588,
-      "version": "3.0.57"
+      "version": "3.0.58"
     }
   },
   "Relay-cntrl": {

@@ -1,23 +1,23 @@
 {
   "prefix": "Radar-Tracker",
-  "version": "3.0.57",
+  "version": "3.0.58",
   "config": "3TRG",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_enc": "Radar-Tracker_3TRG_latest.enc",
-    "versioned_enc": "Radar-Tracker_3TRG_v3.0.57.enc"
+    "versioned_enc": "Radar-Tracker_3TRG_v3.0.58.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "3af3c534f2f7d31ba52324fd36c3563fb0a4ea138337b478cad6780d0ea74dd4",
-    "sha256_latest_enc": "3af3c534f2f7d31ba52324fd36c3563fb0a4ea138337b478cad6780d0ea74dd4"
+    "sha256_versioned_enc": "a3da20a5ccb90e26c63856417b56735abca1eb469a6473dd83bdc96a82f78068",
+    "sha256_latest_enc": "a3da20a5ccb90e26c63856417b56735abca1eb469a6473dd83bdc96a82f78068"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "/3hLCwrrXyIeZU0b",
+    "nonce_b64": "GDQ1diLhsLzsD/GM",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
     "plain_size": 1192560
   },
-  "built_at": "2026-03-20T19:26:31"
+  "built_at": "2026-03-20T22:08:53"
 }
