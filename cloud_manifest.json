@@ -77,8 +77,8 @@
     },
     "SD_DMXRMT2_p32-33_RST12_DTERM": {
       "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_latest.enc",
-      "size": 1312220,
-      "version": "6.0.27"
+      "size": 1309068,
+      "version": "6.0.30"
     },
     "LEDS4_p32-33-5-17_RST12_DTERM": {
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12_DTERM/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_DTERM_latest.enc",
