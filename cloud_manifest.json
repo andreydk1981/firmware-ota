@@ -1,4 +1,4 @@
-{
+﻿{
   "Radar-Tracker": {
     "3TRG": {
       "path": "Radar-Tracker/3TRG/Radar-Tracker_3TRG_v3.0.61.enc",
@@ -49,6 +49,16 @@
     "SD_DMXRMT1_p17_RST12": {
       "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12/Artnet-cntrl_SD_DMXRMT1_p17_RST12_v6.1.0.enc",
       "size": 1306284,
+      "version": "6.1.0"
+    },
+    "SD_DMXRMT2_p17-5_RST12_DTERM": {
+      "path": "Artnet-cntrl/SD_DMXRMT2_p17-5_RST12_DTERM/Artnet-cntrl_SD_DMXRMT2_p17-5_RST12_DTERM_v6.1.0.enc",
+      "size": 1310060,
+      "version": "6.1.0"
+    },
+    "SD_DMXRMT2_p32-33_RST12_DTERM": {
+      "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_v6.1.0.enc",
+      "size": 1310060,
       "version": "6.1.0"
     }
   }
