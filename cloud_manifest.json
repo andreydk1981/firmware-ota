@@ -40,6 +40,11 @@
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_v6.1.0.enc",
       "size": 1260220,
       "version": "6.1.0"
+    },
+    "LEDS4_p32-33-5-17_SD_RST12": {
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_v6.1.0.enc",
+      "size": 1362044,
+      "version": "6.1.0"
     }
   }
 }
