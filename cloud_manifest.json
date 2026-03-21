@@ -9,5 +9,13 @@
     "web_version": "2.1.8",
     "web_path": "Radar-Tracker/web/Radar-Tracker_web_v2.1.8.bin",
     "web_size": 983040
+  },
+  "Relay-cntrl": {
+    "RST12": {
+      "path": "Relay-cntrl/RST12/Relay-cntrl_RST12_v3.0.54.enc",
+      "size": 1111692,
+      "version": "3.0.54"
+    },
+    "fw_version": "3.0.54"
   }
 }
