@@ -5,6 +5,9 @@
       "size": 1191836,
       "version": "3.0.61"
     },
-    "fw_version": "3.0.61"
+    "fw_version": "3.0.61",
+    "web_version": "2.1.8",
+    "web_path": "Radar-Tracker/web/Radar-Tracker_web_v2.1.8.bin",
+    "web_size": 983040
   }
 }
