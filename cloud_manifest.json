@@ -103,9 +103,9 @@
     "web_size": 983040,
     "RST12": {
       "path": "Relay-cntrl/RST12/Relay-cntrl_RST12_latest.enc",
-      "size": 1111772,
-      "version": "3.0.47"
+      "size": 1111836,
+      "version": "3.0.48"
     },
-    "fw_version": "3.0.47"
+    "fw_version": "3.0.48"
   }
 }
