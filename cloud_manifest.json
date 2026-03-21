@@ -20,5 +20,10 @@
     "web_version": "3.1.0",
     "web_path": "Relay-cntrl/web/Relay-cntrl_web_v3.1.0.bin",
     "web_size": 983040
+  },
+  "Artnet-cntrl": {
+    "web_version": "6.3.0",
+    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v6.3.0.bin",
+    "web_size": 983040
   }
 }
