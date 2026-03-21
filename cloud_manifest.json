@@ -24,6 +24,12 @@
   "Artnet-cntrl": {
     "web_version": "6.3.0",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v6.3.0.bin",
-    "web_size": 983040
+    "web_size": 983040,
+    "LEDS2_p5-17_SD_RST12": {
+      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12/Artnet-cntrl_LEDS2_p5-17_SD_RST12_v6.1.0.enc",
+      "size": 1325788,
+      "version": "6.1.0"
+    },
+    "fw_version": "6.1.0"
   }
 }
