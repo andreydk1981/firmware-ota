@@ -17,8 +17,8 @@
       "version": "3.1.0"
     },
     "fw_version": "3.1.0",
-    "web_version": "3.0.68",
-    "web_path": "Relay-cntrl/web/Relay-cntrl_web_v3.0.68.bin",
+    "web_version": "3.1.0",
+    "web_path": "Relay-cntrl/web/Relay-cntrl_web_v3.1.0.bin",
     "web_size": 983040
   }
 }
