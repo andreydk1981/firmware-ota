@@ -104,8 +104,8 @@
     "RST12": {
       "path": "Relay-cntrl/RST12/Relay-cntrl_RST12_latest.enc",
       "size": 1112860,
-      "version": "3.0.49"
+      "version": "3.0.50"
     },
-    "fw_version": "3.0.49"
+    "fw_version": "3.0.50"
   }
 }
