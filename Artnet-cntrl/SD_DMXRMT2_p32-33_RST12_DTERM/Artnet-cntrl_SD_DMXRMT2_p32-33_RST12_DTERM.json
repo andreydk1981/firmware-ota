@@ -8,16 +8,16 @@
     "versioned_enc": "Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_v6.1.0.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "f25b7c0d416c97bf4759c0c45d983e757ffa6e9e0a8b2e76a9aa478b8dc7be4c",
-    "sha256_latest_enc": "f25b7c0d416c97bf4759c0c45d983e757ffa6e9e0a8b2e76a9aa478b8dc7be4c"
+    "sha256_versioned_enc": "15f18af1609c19b9bee41a90da97bf6aecfcb96565c4abd9d7161518999573cd",
+    "sha256_latest_enc": "15f18af1609c19b9bee41a90da97bf6aecfcb96565c4abd9d7161518999573cd"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "6w8+mSFJYEicAS0r",
+    "nonce_b64": "LOZRETfmkgxoUGFk",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
     "plain_size": 1310032
   },
-  "built_at": "2026-03-22T07:59:27"
+  "built_at": "2026-03-22T08:01:17"
 }
