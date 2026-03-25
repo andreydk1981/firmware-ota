@@ -49,6 +49,12 @@
   "Relay-cntrl": {
     "web_version": "3.1.1",
     "web_path": "Relay-cntrl/web/Relay-cntrl_web_v3.1.1.bin",
-    "web_size": 983040
+    "web_size": 983040,
+    "RST12": {
+      "path": "Relay-cntrl/RST12/Relay-cntrl_RST12_v3.1.1.enc",
+      "size": 1111692,
+      "version": "3.1.1"
+    },
+    "fw_version": "3.1.1"
   }
 }
