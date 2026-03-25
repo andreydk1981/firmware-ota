@@ -34,5 +34,10 @@
       "size": 1319084,
       "version": "6.2.0"
     }
+  },
+  "Radar-Tracker": {
+    "web_version": "2.2.1",
+    "web_path": "Radar-Tracker/web/Radar-Tracker_web_v2.2.1.bin",
+    "web_size": 983040
   }
 }
