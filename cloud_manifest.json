@@ -45,5 +45,10 @@
       "version": "3.1.1"
     },
     "fw_version": "3.1.1"
+  },
+  "Relay-cntrl": {
+    "web_version": "3.1.1",
+    "web_path": "Relay-cntrl/web/Relay-cntrl_web_v3.1.1.bin",
+    "web_size": 983040
   }
 }
