@@ -23,6 +23,11 @@
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_v6.2.0.enc",
       "size": 1372812,
       "version": "6.2.0"
+    },
+    "SD_DMXRMT1_p17_RST12": {
+      "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12/Artnet-cntrl_SD_DMXRMT1_p17_RST12_v6.2.0.enc",
+      "size": 1316908,
+      "version": "6.2.0"
     }
   }
 }
