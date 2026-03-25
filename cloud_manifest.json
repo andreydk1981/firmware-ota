@@ -1,65 +1,7 @@
-﻿{
-  "Radar-Tracker": {
-    "3TRG": {
-      "path": "Radar-Tracker/3TRG/Radar-Tracker_3TRG_v3.0.61.enc",
-      "size": 1191836,
-      "version": "3.0.61"
-    },
-    "fw_version": "3.0.61",
-    "web_version": "2.1.8",
-    "web_path": "Radar-Tracker/web/Radar-Tracker_web_v2.1.8.bin",
-    "web_size": 983040
-  },
-  "Relay-cntrl": {
-    "RST12": {
-      "path": "Relay-cntrl/RST12/Relay-cntrl_RST12_v3.1.0.enc",
-      "size": 1111692,
-      "version": "3.1.0"
-    },
-    "fw_version": "3.1.0",
-    "web_version": "3.1.0",
-    "web_path": "Relay-cntrl/web/Relay-cntrl_web_v3.1.0.bin",
-    "web_size": 983040
-  },
+{
   "Artnet-cntrl": {
-    "web_version": "6.3.0",
-    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v6.3.0.bin",
-    "web_size": 983040,
-    "LEDS2_p5-17_SD_RST12": {
-      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12/Artnet-cntrl_LEDS2_p5-17_SD_RST12_v6.1.0.enc",
-      "size": 1325788,
-      "version": "6.1.0"
-    },
-    "fw_version": "6.1.0",
-    "LEDS3_p32-33-5_RST12": {
-      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12/Artnet-cntrl_LEDS3_p32-33-5_RST12_v6.1.0.enc",
-      "size": 1242700,
-      "version": "6.1.0"
-    },
-    "LEDS4_p32-33-5-17_RST12": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_v6.1.0.enc",
-      "size": 1260220,
-      "version": "6.1.0"
-    },
-    "LEDS4_p32-33-5-17_SD_RST12": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_v6.1.0.enc",
-      "size": 1362044,
-      "version": "6.1.0"
-    },
-    "SD_DMXRMT1_p17_RST12": {
-      "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12/Artnet-cntrl_SD_DMXRMT1_p17_RST12_v6.1.0.enc",
-      "size": 1306284,
-      "version": "6.1.0"
-    },
-    "SD_DMXRMT2_p17-5_RST12_DTERM": {
-      "path": "Artnet-cntrl/SD_DMXRMT2_p17-5_RST12_DTERM/Artnet-cntrl_SD_DMXRMT2_p17-5_RST12_DTERM_v6.1.0.enc",
-      "size": 1310060,
-      "version": "6.1.0"
-    },
-    "SD_DMXRMT2_p32-33_RST12_DTERM": {
-      "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_v6.1.0.enc",
-      "size": 1310060,
-      "version": "6.1.0"
-    }
+    "web_version": "6.3.19",
+    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v6.3.19.bin",
+    "web_size": 983040
   }
 }
