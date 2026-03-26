@@ -40,11 +40,11 @@
     "web_path": "Radar-Tracker/web/Radar-Tracker_web_v2.2.1.bin",
     "web_size": 983040,
     "3TRG": {
-      "path": "Radar-Tracker/3TRG/Radar-Tracker_3TRG_v3.1.1.enc",
-      "size": 1191836,
-      "version": "3.1.1"
+      "path": "Radar-Tracker/3TRG/Radar-Tracker_3TRG_v3.1.2.enc",
+      "size": 1193932,
+      "version": "3.1.2"
     },
-    "fw_version": "3.1.1"
+    "fw_version": "3.1.2"
   },
   "Relay-cntrl": {
     "web_version": "3.1.1",
