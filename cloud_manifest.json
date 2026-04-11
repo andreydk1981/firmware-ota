@@ -35,9 +35,9 @@
       "version": "7.2.0"
     },
     "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE": {
-      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.2.0.enc",
+      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.3.0.enc",
       "size": 1290028,
-      "version": "7.2.0"
+      "version": "7.3.0"
     }
   },
   "Radar-Tracker": {
