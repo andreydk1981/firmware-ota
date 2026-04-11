@@ -9,30 +9,10 @@
       "version": "7.2.0"
     },
     "fw_version": "7.2.0",
-    "LEDS3_p32-33-5_RST12": {
-      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12/Artnet-cntrl_LEDS3_p32-33-5_RST12_v6.2.1.enc",
-      "size": 1255628,
-      "version": "6.2.1"
-    },
-    "LEDS4_p32-33-5-17_RST12": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_v6.2.1.enc",
-      "size": 1273292,
-      "version": "6.2.1"
-    },
-    "LEDS4_p32-33-5-17_SD_RST12": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_v6.2.1.enc",
-      "size": 1374908,
-      "version": "6.2.1"
-    },
     "SD_DMXRMT1_p17_RST12": {
       "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12/Artnet-cntrl_SD_DMXRMT1_p17_RST12_v7.2.0.enc",
       "size": 1300988,
       "version": "7.2.0"
-    },
-    "SD_DMXRMT2_p32-33_RST12_DTERM": {
-      "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_v6.2.1.enc",
-      "size": 1321132,
-      "version": "6.2.1"
     },
     "LEDS3_p32-33-5_RST12_LSTATE": {
       "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.2.0.enc",
@@ -49,11 +29,6 @@
       "size": 1355692,
       "version": "7.2.0"
     },
-    "LEDS8_p14-15-2-4-32-33-17-5_RST12_TFAN_LSTATE": {
-      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_RST12_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_RST12_TFAN_LSTATE_v7.2.0.enc",
-      "size": 1291308,
-      "version": "7.2.0"
-    },
     "SD_DMXRMT1_p17_RST12_LSTATE": {
       "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12_LSTATE/Artnet-cntrl_SD_DMXRMT1_p17_RST12_LSTATE_v7.2.0.enc",
       "size": 1301452,
@@ -62,6 +37,11 @@
     "SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE": {
       "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE_v7.2.0.enc",
       "size": 1303644,
+      "version": "7.2.0"
+    },
+    "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE": {
+      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.2.0.enc",
+      "size": 1290028,
       "version": "7.2.0"
     }
   },

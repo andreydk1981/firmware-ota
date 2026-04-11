@@ -1,0 +1,23 @@
+{
+  "prefix": "Artnet-cntrl",
+  "version": "7.2.0",
+  "config": "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE",
+  "pioenv": "wt32-eth01",
+  "files": {
+    "latest_enc": "Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_latest.enc",
+    "versioned_enc": "Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.2.0.enc"
+  },
+  "hashes": {
+    "sha256_versioned_enc": "1b6b7c031c3bea14d487d8c18bfe66831deb9ed14536a77ed2456014acd410e5",
+    "sha256_latest_enc": "1b6b7c031c3bea14d487d8c18bfe66831deb9ed14536a77ed2456014acd410e5"
+  },
+  "encryption": {
+    "cipher": "AES-256-GCM",
+    "nonce_b64": "BE5Xd2zjMU6RSnMv",
+    "nonce_len": 12,
+    "tag_len": 16,
+    "format": "nonce||ciphertext||tag",
+    "plain_size": 1290000
+  },
+  "built_at": "2026-04-12T01:24:29"
+}
