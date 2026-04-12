@@ -4,11 +4,11 @@
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v7.4.2.bin",
     "web_size": 983040,
     "LEDS2_p5-17_SD_RST12": {
-      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12/Artnet-cntrl_LEDS2_p5-17_SD_RST12_v7.4.0.enc",
-      "size": 1323308,
-      "version": "7.4.0"
+      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12/Artnet-cntrl_LEDS2_p5-17_SD_RST12_v7.4.3.enc",
+      "size": 1323964,
+      "version": "7.4.3"
     },
-    "fw_version": "7.4.0",
+    "fw_version": "7.4.3",
     "LEDS3_p32-33-5_RST12_LSTATE": {
       "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.4.0.enc",
       "size": 1240892,
