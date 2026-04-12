@@ -1,23 +1,23 @@
 {
   "prefix": "Artnet-cntrl",
-  "version": "7.3.0",
+  "version": "7.4.0",
   "config": "LEDS3_p32-33-5_RST12_LSTATE",
   "pioenv": "wt32-eth01",
   "files": {
     "latest_enc": "Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_latest.enc",
-    "versioned_enc": "Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.3.0.enc"
+    "versioned_enc": "Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.4.0.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "0fa3dce10660bc93fa80b6870d601aafa8a1c9ccc08ade82ef7917517cbb5c05",
-    "sha256_latest_enc": "0fa3dce10660bc93fa80b6870d601aafa8a1c9ccc08ade82ef7917517cbb5c05"
+    "sha256_versioned_enc": "e16d3e7e23f956e5fbebabc40987eb189340b2689fa39cec27e21d04afdea870",
+    "sha256_latest_enc": "e16d3e7e23f956e5fbebabc40987eb189340b2689fa39cec27e21d04afdea870"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "Zf++/B6gbOOug+GJ",
+    "nonce_b64": "n0YTgKZftjIo7kVU",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1240640
+    "plain_size": 1240864
   },
-  "built_at": "2026-04-12T01:35:48"
+  "built_at": "2026-04-12T16:38:39"
 }
