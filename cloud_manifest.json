@@ -49,7 +49,12 @@
       "size": 1193932,
       "version": "3.1.2"
     },
-    "fw_version": "3.1.2"
+    "fw_version": "3.2.0",
+    "SHT3X": {
+      "path": "Radar-Tracker/SHT3X/Radar-Tracker_SHT3X_v3.2.0.enc",
+      "size": 1176332,
+      "version": "3.2.0"
+    }
   },
   "Relay-cntrl": {
     "web_version": "3.1.1",
