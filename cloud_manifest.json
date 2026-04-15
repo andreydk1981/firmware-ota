@@ -38,6 +38,11 @@
       "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.4.29.enc",
       "size": 1291388,
       "version": "7.4.29"
+    },
+    "LEDS4_p32-33-5-17_SD_RST12_LSTATE_PLAYER": {
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE_PLAYER/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_PLAYER_v7.4.45.enc",
+      "size": 1342060,
+      "version": "7.4.45"
     }
   },
   "Radar-Tracker": {
