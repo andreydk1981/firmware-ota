@@ -10,9 +10,9 @@
     },
     "fw_version": "7.9.0",
     "LEDS3_p32-33-5_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.4.45.enc",
-      "size": 1237340,
-      "version": "7.4.45"
+      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.9.0.enc",
+      "size": 1260316,
+      "version": "7.9.0"
     },
     "LEDS4_p32-33-5-17_RST12_LSTATE": {
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_LSTATE_v7.4.45.enc",
