@@ -1,0 +1,23 @@
+{
+  "prefix": "Artnet-cntrl",
+  "version": "7.9.0",
+  "config": "SD_RST12_LSTATE_PLAYER",
+  "pioenv": "wt32-eth01",
+  "files": {
+    "latest_enc": "Artnet-cntrl_SD_RST12_LSTATE_PLAYER_latest.enc",
+    "versioned_enc": "Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v7.9.0.enc"
+  },
+  "hashes": {
+    "sha256_versioned_enc": "d7c1f2942d63540bfdb95244d1f6a94ab8bfa08cd995ee0a7bae0b45b505e2db",
+    "sha256_latest_enc": "d7c1f2942d63540bfdb95244d1f6a94ab8bfa08cd995ee0a7bae0b45b505e2db"
+  },
+  "encryption": {
+    "cipher": "AES-256-GCM",
+    "nonce_b64": "P7URTagDwyNF0zIH",
+    "nonce_len": 12,
+    "tag_len": 16,
+    "format": "nonce||ciphertext||tag",
+    "plain_size": 1299408
+  },
+  "built_at": "2026-05-05T00:21:18"
+}

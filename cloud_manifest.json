@@ -48,6 +48,11 @@
       "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v7.9.0.enc",
       "size": 1341980,
       "version": "7.9.0"
+    },
+    "SD_RST12_LSTATE_PLAYER": {
+      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v7.9.0.enc",
+      "size": 1299436,
+      "version": "7.9.0"
     }
   },
   "Radar-Tracker": {
