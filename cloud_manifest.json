@@ -34,14 +34,14 @@
       "size": 1286716,
       "version": "7.4.45"
     },
-    "LEDS4_p32-33-5-17_SD_RST12_LSTATE_PLAYER": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE_PLAYER/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_PLAYER_v7.4.45.enc",
-      "size": 1342060,
-      "version": "7.4.45"
-    },
     "SD_RST12_LSTATE_PLAYER": {
       "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v7.9.0.enc",
       "size": 1299436,
+      "version": "7.9.0"
+    },
+    "LEDS2_p5-17_SD_RST12_LSTATE": {
+      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v7.9.0.enc",
+      "size": 1341980,
       "version": "7.9.0"
     }
   },
