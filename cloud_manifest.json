@@ -30,9 +30,9 @@
       "version": "7.9.82"
     },
     "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE": {
-      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.9.82.enc",
-      "size": 1313020,
-      "version": "7.9.82"
+      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.10.0.enc",
+      "size": 1285868,
+      "version": "7.10.0"
     },
     "SD_RST12_LSTATE_PLAYER": {
       "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v7.9.82.enc",
