@@ -3,7 +3,7 @@
     "web_version": "7.7.51",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v7.7.51.bin",
     "web_size": 983040,
-    "fw_version": "7.9.82",
+    "fw_version": "7.10.0",
     "LEDS3_p32-33-5_RST12_LSTATE": {
       "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.9.82.enc",
       "size": 1264444,
@@ -40,9 +40,9 @@
       "version": "7.9.82"
     },
     "LEDS2_p5-17_SD_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v7.9.82.enc",
-      "size": 1352140,
-      "version": "7.9.82"
+      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v7.10.0.enc",
+      "size": 1324636,
+      "version": "7.10.0"
     }
   },
   "Radar-Tracker": {
