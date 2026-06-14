@@ -4,29 +4,9 @@
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v7.7.51.bin",
     "web_size": 983040,
     "fw_version": "7.10.0",
-    "LEDS3_p32-33-5_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v7.10.0.enc",
-      "size": 1237116,
-      "version": "7.10.0"
-    },
-    "LEDS4_p32-33-5-17_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_LSTATE_v7.10.0.enc",
-      "size": 1252684,
-      "version": "7.10.0"
-    },
     "LEDS4_p32-33-5-17_SD_RST12_LSTATE": {
       "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v7.10.0.enc",
       "size": 1356956,
-      "version": "7.10.0"
-    },
-    "SD_DMXRMT1_p17_RST12_LSTATE": {
-      "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12_LSTATE/Artnet-cntrl_SD_DMXRMT1_p17_RST12_LSTATE_v7.10.0.enc",
-      "size": 1300428,
-      "version": "7.10.0"
-    },
-    "SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE": {
-      "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE_v7.10.0.enc",
-      "size": 1302556,
       "version": "7.10.0"
     },
     "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE": {
@@ -37,11 +17,6 @@
     "SD_RST12_LSTATE_PLAYER": {
       "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v7.10.0.enc",
       "size": 1279356,
-      "version": "7.10.0"
-    },
-    "LEDS2_p5-17_SD_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v7.10.0.enc",
-      "size": 1324636,
       "version": "7.10.0"
     },
     "SD_RST12_LSTATE_PLAYER_AREC48": {
