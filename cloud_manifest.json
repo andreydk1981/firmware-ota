@@ -3,29 +3,93 @@
     "web_version": "8.1.3",
     "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v8.1.3.bin",
     "web_size": 983040,
-    "fw_version": "7.10.0",
+    "fw_version": "8.1.11",
     "LEDS4_p32-33-5-17_SD_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v7.10.0.enc",
-      "size": 1356956,
-      "version": "7.10.0"
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v8.1.11.enc",
+      "size": 1156492,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
     },
     "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE": {
-      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v7.10.0.enc",
-      "size": 1285868,
-      "version": "7.10.0"
+      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v8.1.11.enc",
+      "size": 1115676,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
     },
     "SD_RST12_LSTATE_PLAYER": {
-      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v7.10.0.enc",
-      "size": 1279356,
-      "version": "7.10.0"
+      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v8.1.11.enc",
+      "size": 1087404,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
     },
     "SD_RST12_LSTATE_PLAYER_AREC48": {
-      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER_AREC48/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_AREC48_v7.10.0.enc",
-      "size": 1293996,
-      "version": "7.10.0"
+      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER_AREC48/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_AREC48_v8.1.11.enc",
+      "size": 1099516,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
     },
     "web_min_fw": "8.0.120",
-    "web_max_fw": ""
+    "web_max_fw": "",
+    "DMXRMT1_p32_RST12_DTERM_LSTATE": {
+      "path": "Artnet-cntrl/DMXRMT1_p32_RST12_DTERM_LSTATE/Artnet-cntrl_DMXRMT1_p32_RST12_DTERM_LSTATE_v8.1.11.enc",
+      "size": 1030892,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    },
+    "DMXRMT2_p32-33_RST12_DTERM_LSTATE": {
+      "path": "Artnet-cntrl/DMXRMT2_p32-33_RST12_DTERM_LSTATE/Artnet-cntrl_DMXRMT2_p32-33_RST12_DTERM_LSTATE_v8.1.11.enc",
+      "size": 1032428,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    },
+    "LEDS2_p5-17_SD_RST12_LSTATE": {
+      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v8.1.11.enc",
+      "size": 1127164,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    },
+    "LEDS3_p32-33-5_RST12_LSTATE": {
+      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v8.1.11.enc",
+      "size": 1067756,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    },
+    "LEDS4_p32-33-5-17_RST12_LSTATE": {
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_LSTATE_v8.1.11.enc",
+      "size": 1081724,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    },
+    "SD_DMXRMT1_p17_RST12_LSTATE": {
+      "path": "Artnet-cntrl/SD_DMXRMT1_p17_RST12_LSTATE/Artnet-cntrl_SD_DMXRMT1_p17_RST12_LSTATE_v8.1.11.enc",
+      "size": 1104156,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    },
+    "SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE": {
+      "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_DTERM_LSTATE_v8.1.11.enc",
+      "size": 1106460,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    },
+    "SD_DMXRMT2_p32-33_RST12_LSTATE": {
+      "path": "Artnet-cntrl/SD_DMXRMT2_p32-33_RST12_LSTATE/Artnet-cntrl_SD_DMXRMT2_p32-33_RST12_LSTATE_v8.1.11.enc",
+      "size": 1105820,
+      "version": "8.1.11",
+      "min_web": "0.0.0",
+      "max_web": ""
+    }
   },
   "Radar-Tracker": {
     "web_version": "2.3.0",

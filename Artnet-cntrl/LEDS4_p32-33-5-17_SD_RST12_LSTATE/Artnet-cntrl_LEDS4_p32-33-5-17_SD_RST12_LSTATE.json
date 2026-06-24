@@ -1,23 +1,29 @@
 {
   "prefix": "Artnet-cntrl",
-  "version": "7.10.0",
+  "version": "8.1.11",
   "config": "LEDS4_p32-33-5-17_SD_RST12_LSTATE",
-  "pioenv": "wt32-eth01",
+  "min_web": "0.0.0",
+  "max_web": "",
+  "compat": {
+    "min_web": "0.0.0",
+    "max_web": ""
+  },
+  "pioenv": "wt32-eth01-idf-arduino",
   "files": {
     "latest_enc": "Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_latest.enc",
-    "versioned_enc": "Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v7.10.0.enc"
+    "versioned_enc": "Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v8.1.11.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "a101b93dfd8e0cbe541d9b5f30d54de6f965f6e8a5e168138d829358da37542a",
-    "sha256_latest_enc": "a101b93dfd8e0cbe541d9b5f30d54de6f965f6e8a5e168138d829358da37542a"
+    "sha256_versioned_enc": "0d77c48050de25843a0bf6a2f06a1826635e073d8845b4a39b21c83b96237529",
+    "sha256_latest_enc": "0d77c48050de25843a0bf6a2f06a1826635e073d8845b4a39b21c83b96237529"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "UenMWlYcG3YK4wT6",
+    "nonce_b64": "uYu5rZXnIuT+7iZW",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1356928
+    "plain_size": 1156464
   },
-  "built_at": "2026-06-10T07:57:52"
+  "built_at": "2026-06-23T14:54:25"
 }
