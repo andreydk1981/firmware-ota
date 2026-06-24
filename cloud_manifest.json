@@ -1,7 +1,7 @@
 {
   "Artnet-cntrl": {
-    "web_version": "7.7.51",
-    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v7.7.51.bin",
+    "web_version": "8.1.3",
+    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v8.1.3.bin",
     "web_size": 983040,
     "fw_version": "7.10.0",
     "LEDS4_p32-33-5-17_SD_RST12_LSTATE": {
@@ -23,7 +23,9 @@
       "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER_AREC48/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_AREC48_v7.10.0.enc",
       "size": 1293996,
       "version": "7.10.0"
-    }
+    },
+    "web_min_fw": "8.0.120",
+    "web_max_fw": ""
   },
   "Radar-Tracker": {
     "web_version": "2.3.0",
