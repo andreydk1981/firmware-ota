@@ -19,9 +19,9 @@
       "max_web": ""
     },
     "SD_RST12_LSTATE_PLAYER": {
-      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v8.1.11.enc",
-      "size": 1087404,
-      "version": "8.1.11",
+      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v8.1.12.enc",
+      "size": 1087724,
+      "version": "8.1.12",
       "min_web": "0.0.0",
       "max_web": ""
     },
