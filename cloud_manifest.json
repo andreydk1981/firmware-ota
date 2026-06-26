@@ -56,9 +56,9 @@
       "max_web": ""
     },
     "LEDS3_p32-33-5_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v8.1.11.enc",
-      "size": 1067756,
-      "version": "8.1.11",
+      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v8.1.12.enc",
+      "size": 1068108,
+      "version": "8.1.12",
       "min_web": "0.0.0",
       "max_web": ""
     },
