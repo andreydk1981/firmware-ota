@@ -5,16 +5,16 @@
     "web_size": 983040,
     "fw_version": "8.1.13",
     "LEDS4_p32-33-5-17_SD_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v8.1.12.enc",
-      "size": 1156860,
-      "version": "8.1.12",
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v8.1.13.enc",
+      "size": 1157468,
+      "version": "8.1.13",
       "min_web": "0.0.0",
       "max_web": ""
     },
     "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE": {
-      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v8.1.12.enc",
-      "size": 1115996,
-      "version": "8.1.12",
+      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v8.1.13.enc",
+      "size": 1116588,
+      "version": "8.1.13",
       "min_web": "0.0.0",
       "max_web": ""
     },

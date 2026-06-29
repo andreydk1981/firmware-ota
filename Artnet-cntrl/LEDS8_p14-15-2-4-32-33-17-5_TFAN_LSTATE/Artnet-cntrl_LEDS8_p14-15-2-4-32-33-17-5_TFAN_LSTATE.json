@@ -1,6 +1,6 @@
 {
   "prefix": "Artnet-cntrl",
-  "version": "8.1.12",
+  "version": "8.1.13",
   "config": "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE",
   "min_web": "0.0.0",
   "max_web": "",
@@ -11,19 +11,19 @@
   "pioenv": "wt32-eth01-idf-arduino",
   "files": {
     "latest_enc": "Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_latest.enc",
-    "versioned_enc": "Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v8.1.12.enc"
+    "versioned_enc": "Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v8.1.13.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "e0f49e4da416b9f8450e72398ff8f92714fd32fd799e71414d38c187b898b73d",
-    "sha256_latest_enc": "e0f49e4da416b9f8450e72398ff8f92714fd32fd799e71414d38c187b898b73d"
+    "sha256_versioned_enc": "992ab2f445985356f35898c5ab0e50fde0b36e8fe3e34b0bc3b691fbeed4e1c2",
+    "sha256_latest_enc": "992ab2f445985356f35898c5ab0e50fde0b36e8fe3e34b0bc3b691fbeed4e1c2"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "ctQdeZj3bq1tRI1X",
+    "nonce_b64": "ww+9zM8dAyL8IeWV",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1115968
+    "plain_size": 1116560
   },
-  "built_at": "2026-06-27T06:35:30"
+  "built_at": "2026-06-29T23:29:18"
 }
