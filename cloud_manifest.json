@@ -1,7 +1,7 @@
 {
   "Artnet-cntrl": {
-    "web_version": "8.1.5",
-    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v8.1.5.bin",
+    "web_version": "8.1.6",
+    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v8.1.6.bin",
     "web_size": 983040,
     "fw_version": "8.1.12",
     "LEDS4_p32-33-5-17_SD_RST12_LSTATE": {
