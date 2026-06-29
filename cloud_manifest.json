@@ -26,9 +26,9 @@
       "max_web": ""
     },
     "SD_RST12_LSTATE_PLAYER_AREC48": {
-      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER_AREC48/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_AREC48_v8.1.13.enc",
-      "size": 1100332,
-      "version": "8.1.13",
+      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER_AREC48/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_AREC48_v8.1.14.enc",
+      "size": 1100220,
+      "version": "8.1.14",
       "min_web": "0.0.0",
       "max_web": ""
     },
