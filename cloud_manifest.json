@@ -49,9 +49,9 @@
       "max_web": ""
     },
     "LEDS2_p5-17_SD_RST12_LSTATE": {
-      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v8.1.14.enc",
-      "size": 1127996,
-      "version": "8.1.14",
+      "path": "Artnet-cntrl/LEDS2_p5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS2_p5-17_SD_RST12_LSTATE_v8.1.16.enc",
+      "size": 1128460,
+      "version": "8.1.16",
       "min_web": "0.0.0",
       "max_web": ""
     },
