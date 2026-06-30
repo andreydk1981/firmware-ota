@@ -1,6 +1,6 @@
 {
   "prefix": "Artnet-cntrl",
-  "version": "8.1.14",
+  "version": "8.1.16",
   "config": "LEDS3_p32-33-5_RST12_LSTATE",
   "min_web": "0.0.0",
   "max_web": "",
@@ -11,19 +11,19 @@
   "pioenv": "wt32-eth01-idf-arduino",
   "files": {
     "latest_enc": "Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_latest.enc",
-    "versioned_enc": "Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v8.1.14.enc"
+    "versioned_enc": "Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v8.1.16.enc"
   },
   "hashes": {
-    "sha256_versioned_enc": "06f75f381e50af54c7de2860164e95a3233d51e4da756b065b4b7e68ff5ff448",
-    "sha256_latest_enc": "06f75f381e50af54c7de2860164e95a3233d51e4da756b065b4b7e68ff5ff448"
+    "sha256_versioned_enc": "40e0b2daa32ec4f3ef3f52873c8bced73fb15b9802d64c7360dbc7b2bcb20d69",
+    "sha256_latest_enc": "40e0b2daa32ec4f3ef3f52873c8bced73fb15b9802d64c7360dbc7b2bcb20d69"
   },
   "encryption": {
     "cipher": "AES-256-GCM",
-    "nonce_b64": "Ikhj4AmHnUoWm8IE",
+    "nonce_b64": "9fSUFKq03jX/aeZD",
     "nonce_len": 12,
     "tag_len": 16,
     "format": "nonce||ciphertext||tag",
-    "plain_size": 1068528
+    "plain_size": 1069184
   },
-  "built_at": "2026-06-29T23:53:42"
+  "built_at": "2026-06-30T16:52:14"
 }
