@@ -42,9 +42,9 @@
       "max_web": ""
     },
     "DMXRMT2_p32-33_RST12_DTERM_LSTATE": {
-      "path": "Artnet-cntrl/DMXRMT2_p32-33_RST12_DTERM_LSTATE/Artnet-cntrl_DMXRMT2_p32-33_RST12_DTERM_LSTATE_v8.1.14.enc",
-      "size": 1033244,
-      "version": "8.1.14",
+      "path": "Artnet-cntrl/DMXRMT2_p32-33_RST12_DTERM_LSTATE/Artnet-cntrl_DMXRMT2_p32-33_RST12_DTERM_LSTATE_v8.1.16.enc",
+      "size": 1033916,
+      "version": "8.1.16",
       "min_web": "0.0.0",
       "max_web": ""
     },
