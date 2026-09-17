@@ -54,6 +54,13 @@
       "version": "8.1.58",
       "min_web": "8.1.13",
       "max_web": ""
+    },
+    "LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE": {
+      "path": "Artnet-cntrl/LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE/Artnet-cntrl_LEDS8_p14-15-2-4-32-33-17-5_TFAN_LSTATE_v8.1.58.enc",
+      "size": 1160572,
+      "version": "8.1.58",
+      "min_web": "8.1.13",
+      "max_web": ""
     }
   },
   "Radar-Tracker": {
