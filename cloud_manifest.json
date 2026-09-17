@@ -19,6 +19,13 @@
       "version": "8.1.58",
       "min_web": "8.1.13",
       "max_web": ""
+    },
+    "LEDS1_p32": {
+      "path": "Artnet-cntrl/LEDS1_p32/Artnet-cntrl_LEDS1_p32_v8.1.58.enc",
+      "size": 1090732,
+      "version": "8.1.58",
+      "min_web": "8.1.13",
+      "max_web": ""
     }
   },
   "Radar-Tracker": {

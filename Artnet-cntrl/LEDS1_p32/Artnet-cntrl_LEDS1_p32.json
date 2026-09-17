@@ -1,0 +1,29 @@
+{
+  "prefix": "Artnet-cntrl",
+  "version": "8.1.58",
+  "config": "LEDS1_p32",
+  "min_web": "8.1.13",
+  "max_web": "",
+  "compat": {
+    "min_web": "8.1.13",
+    "max_web": ""
+  },
+  "pioenv": "wt32-eth01-idf-arduino",
+  "files": {
+    "latest_enc": "Artnet-cntrl_LEDS1_p32_latest.enc",
+    "versioned_enc": "Artnet-cntrl_LEDS1_p32_v8.1.58.enc"
+  },
+  "hashes": {
+    "sha256_versioned_enc": "413b8056b2c08bdaec1f244ca7a4a9e15368d1011fc8109cd606b0aa07945420",
+    "sha256_latest_enc": "413b8056b2c08bdaec1f244ca7a4a9e15368d1011fc8109cd606b0aa07945420"
+  },
+  "encryption": {
+    "cipher": "AES-256-GCM",
+    "nonce_b64": "R/K5oJqNCXc6XvXL",
+    "nonce_len": 12,
+    "tag_len": 16,
+    "format": "nonce||ciphertext||tag",
+    "plain_size": 1090704
+  },
+  "built_at": "2026-09-17T16:49:18"
+}
