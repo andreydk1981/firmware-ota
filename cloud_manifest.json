@@ -33,6 +33,13 @@
       "version": "8.1.58",
       "min_web": "8.1.13",
       "max_web": ""
+    },
+    "LEDS3_p32-33-5_RST12_LSTATE": {
+      "path": "Artnet-cntrl/LEDS3_p32-33-5_RST12_LSTATE/Artnet-cntrl_LEDS3_p32-33-5_RST12_LSTATE_v8.1.58.enc",
+      "size": 1112556,
+      "version": "8.1.58",
+      "min_web": "8.1.13",
+      "max_web": ""
     }
   },
   "Radar-Tracker": {
