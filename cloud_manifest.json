@@ -40,6 +40,20 @@
       "version": "8.1.58",
       "min_web": "8.1.13",
       "max_web": ""
+    },
+    "LEDS4_p32-33-5-17_RST12_LSTATE": {
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_RST12_LSTATE_v8.1.58.enc",
+      "size": 1126476,
+      "version": "8.1.58",
+      "min_web": "8.1.13",
+      "max_web": ""
+    },
+    "LEDS4_p32-33-5-17_SD_RST12_LSTATE": {
+      "path": "Artnet-cntrl/LEDS4_p32-33-5-17_SD_RST12_LSTATE/Artnet-cntrl_LEDS4_p32-33-5-17_SD_RST12_LSTATE_v8.1.58.enc",
+      "size": 1201500,
+      "version": "8.1.58",
+      "min_web": "8.1.13",
+      "max_web": ""
     }
   },
   "Radar-Tracker": {
