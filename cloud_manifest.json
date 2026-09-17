@@ -75,6 +75,13 @@
       "version": "8.1.58",
       "min_web": "8.1.13",
       "max_web": ""
+    },
+    "SD_RST12_LSTATE_PLAYER": {
+      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_v8.1.58.enc",
+      "size": 1131788,
+      "version": "8.1.58",
+      "min_web": "8.1.13",
+      "max_web": ""
     }
   },
   "Radar-Tracker": {
