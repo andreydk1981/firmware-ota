@@ -1,7 +1,7 @@
 {
   "Artnet-cntrl": {
-    "web_version": "8.1.7",
-    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v8.1.7.bin",
+    "web_version": "8.1.45",
+    "web_path": "Artnet-cntrl/web/Artnet-cntrl_web_v8.1.45.bin",
     "web_size": 983040,
     "fw_version": "8.1.16",
     "SD_RST12_LSTATE_PLAYER_AREC48": {
@@ -11,7 +11,7 @@
       "min_web": "0.0.0",
       "max_web": ""
     },
-    "web_min_fw": "8.0.120",
+    "web_min_fw": "8.1.58",
     "web_max_fw": ""
   },
   "Radar-Tracker": {
