@@ -5,10 +5,10 @@
     "web_size": 983040,
     "fw_version": "8.1.58",
     "SD_RST12_LSTATE_PLAYER_AREC48": {
-      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER_AREC48/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_AREC48_v8.1.16.enc",
-      "size": 1100684,
-      "version": "8.1.16",
-      "min_web": "0.0.0",
+      "path": "Artnet-cntrl/SD_RST12_LSTATE_PLAYER_AREC48/Artnet-cntrl_SD_RST12_LSTATE_PLAYER_AREC48_v8.1.58.enc",
+      "size": 1144572,
+      "version": "8.1.58",
+      "min_web": "8.1.13",
       "max_web": ""
     },
     "web_min_fw": "8.1.58",
