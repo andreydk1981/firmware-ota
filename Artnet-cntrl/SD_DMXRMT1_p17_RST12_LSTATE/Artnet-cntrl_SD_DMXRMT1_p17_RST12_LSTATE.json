@@ -1,0 +1,29 @@
+{
+  "prefix": "Artnet-cntrl",
+  "version": "8.1.58",
+  "config": "SD_DMXRMT1_p17_RST12_LSTATE",
+  "min_web": "8.1.13",
+  "max_web": "",
+  "compat": {
+    "min_web": "8.1.13",
+    "max_web": ""
+  },
+  "pioenv": "wt32-eth01-idf-arduino",
+  "files": {
+    "latest_enc": "Artnet-cntrl_SD_DMXRMT1_p17_RST12_LSTATE_latest.enc",
+    "versioned_enc": "Artnet-cntrl_SD_DMXRMT1_p17_RST12_LSTATE_v8.1.58.enc"
+  },
+  "hashes": {
+    "sha256_versioned_enc": "c38aa7520b1f86ddbf7e9930ffef904218e2b2c1c03104bc0c12533a69d7a202",
+    "sha256_latest_enc": "c38aa7520b1f86ddbf7e9930ffef904218e2b2c1c03104bc0c12533a69d7a202"
+  },
+  "encryption": {
+    "cipher": "AES-256-GCM",
+    "nonce_b64": "XNe3+66D4d0D7nIV",
+    "nonce_len": 12,
+    "tag_len": 16,
+    "format": "nonce||ciphertext||tag",
+    "plain_size": 1148960
+  },
+  "built_at": "2026-09-17T16:55:29"
+}
